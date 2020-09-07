@@ -1,14 +1,7 @@
-﻿using System;
 /*
-Class:       ISTA 220 Programming Fundamentals in C#
-Student:     Osee Pierre
-Instructor:  Christine Lee
-Date:        08/01/20
 Description: Simple math calculator with Addition, Subtraction, Multiplication, and Division capabilities
-Revised:     
-Revised by: 
-Revision:   
 */
+﻿using System;
 
 namespace SimpleCalculator
 {
